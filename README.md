@@ -1,2 +1,1 @@
-# Pizza
-Uploading files practice 
+# pizza
